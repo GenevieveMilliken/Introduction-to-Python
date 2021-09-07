@@ -1,4 +1,4 @@
-# Hello and Welcome to Introduction to Python
+Welcome to Introduction to Python | NYU Health Sciences Library
 
 Instructor: Genevieve Milliken, MA, MSLIS
             Data Services Librarian, NYU Health Sciences Library, NYU Langone Health
