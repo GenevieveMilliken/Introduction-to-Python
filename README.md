@@ -7,14 +7,14 @@ This beginner-level class will address concepts foundational to all programming 
 
 By the end of class, learners will be exposed to:
 
-Basic Syntax
-Data Types
-Variables
-Functions
-Arguments
-Logical operations and conditional statements
-For Loops
-Python Libraries
+- Basic Syntax
+- Data Types
+- Variables
+- Functions
+- Arguments
+- Logical operations and conditional statements
+- For Loops
+- Python Libraries
 
 Learners are not expected to have significant previous coding experience prior to attending. We will be using Jupyter Notebook and the open-source Anaconda Distribution. Please install Anaconda (which comes with Jupyter Notebook) prior to the workshop: https://www.anaconda.com/distribution/ 
 
